@@ -1,1 +1,11 @@
 # CS255Portfolio
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+DriverPass is a business who wants to help future drivers have access to the material and training needed to pass the DMV driving test. They wanted a system that gives customers access to practice tests and the ability to reserve driving sessions with trainers, as well as giving trainers the ability to leave notes for their trainees.
+What did you do particularly well?
+I think I did the business requirements document pretty well and I felt really good about my UML diagrams.
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would do a little more work on my UML Class diagram. I was not confident in it at all. I would take my time and add all methods to the classes.
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+I saw that each individual user type needed its own abilities and functions, so in my system design I made sure to include each users' requirements and give them the ability to do what they needed based on their user type. Customers can take tests and reserve sessions, trainers can leave notes and keep track of their appointments, and the admin can view and download the database of all customers, customer progress, employees, and all appointments. It is important to consider user needs because without considering the user needs, you won't create a system that they will enjoy and find easy to use, which defeats the purpose of the system.
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+I look at designing a new software like a puzzle that's missing pieces and it's my job to find all of the pieces. Using the transcript and diagrams and all of the information provided, I find all the pieces needed to put the whole puzzle together and see the whole picture. In the future, I think that I will make sure to have all of my information in one place and use a business requirements document to help make all of the diagrams needed. Writing lots of notes and organizing my thoughts hasn't failed me thus far, I think I'll stick with it.
